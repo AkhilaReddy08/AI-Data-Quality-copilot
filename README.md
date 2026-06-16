@@ -34,3 +34,6 @@ An AI-powered data quality analysis tool built using Python and Streamlit.
 ## ▶️ Run Project
 ```bash
 streamlit run app.py
+
+## live demo
+https://ai-data-quality-copilot-ad89jbgaiqftc7gicdixhq.streamlit.app/
